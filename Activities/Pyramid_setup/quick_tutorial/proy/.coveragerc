@@ -1,0 +1,3 @@
+[run]
+source = proy
+omit = proy/test*
